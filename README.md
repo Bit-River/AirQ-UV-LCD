@@ -9,6 +9,10 @@ https://forums.pimoroni.com/t/pirate-audio-st7789-image-display-breaks-audio/123
 
 Requires Material Design Icon Font from: https://materialdesignicons.com/
 
+Copy TrueType font (ttf) to /usr/share/fonts/truetype/materialdesignicons-webfont.ttf
+
+Also, requires a ttf font, Arial in the code - but can be modified to whatever fonts you like / have.
+
 ---
 
 Uses breakout boards:
