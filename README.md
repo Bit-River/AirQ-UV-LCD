@@ -13,6 +13,10 @@ Copy TrueType font (ttf) to /usr/share/fonts/truetype/materialdesignicons-webfon
 
 Also, requires a ttf font, Arial in the code - but can be modified to whatever fonts you like / have.
 
+To be fully lazy, you can use:
+
+sudo apt install ttf-mscorefonts-installer
+
 ---
 
 Uses breakout boards:
