@@ -17,6 +17,8 @@ To be fully lazy, you can use:
 
 sudo apt install ttf-mscorefonts-installer
 
+That will put Arial in the place the code looks for it.
+
 ---
 
 Uses breakout boards:
