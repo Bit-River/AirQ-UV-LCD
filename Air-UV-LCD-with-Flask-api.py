@@ -41,8 +41,8 @@ draw = ImageDraw.Draw(image)
 mdifont = ImageFont.truetype("/usr/share/fonts/truetype/materialdesignicons-webfont.ttf", 50)
 font = ImageFont.truetype("/usr/share/fonts/truetype/msttcorefonts/arial.ttf", 30)
 
-## Display Something While Waiting for the SGP30 Sensor to Warm Up
-image = Image.open("pimoroni-pirate.png")
+## Display Something While Waiting for the SGP30 Sensor to Warm Up (Can be any 240 x 240 image) 
+image = Image.open("/home/pi/pimoroni-pirate.png")
 screen.display(image)
 
 # Warm Up SGP30 sensor
