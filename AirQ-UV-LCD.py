@@ -37,7 +37,7 @@ image = Image.new("RGB", (240, 240), (0, 0, 0))
 draw = ImageDraw.Draw(image)
 
 ## Set up fonts
-mdifont = ImageFont.truetype("/usr/share/fonts/truetype/msttcorefonts/materialdesignicons-webfont.ttf", 50)
+mdifont = ImageFont.truetype("/usr/share/fonts/truetype/materialdesignicons-webfont.ttf", 50)
 font = ImageFont.truetype("/usr/share/fonts/truetype/msttcorefonts/arial.ttf", 30)
 
 ## Display Something While Waiting for the SGP30 Sensor to Warm Up (use a 240 x 240 image)
